@@ -12,6 +12,8 @@ Here, you can find a complete overview of the work done in the course. At the bo
 | 2 |
 | 3 |
 
+# Memory-constrained Visual Emotion Classification
+
 ## Problem statement
 
 The task of emotion recognition is among the most complex ones in computer vision, as emotions are highly subjective and can be expressed in many different ways, such as through facial expressions, body language, and vocal cues. Recognizing emotions from face images is particularly challenging due to the variations in individual faces, lighting conditions, and expressions. These variations can make it difficult for traditional computer vision techniques to accurately classify emotions.

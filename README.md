@@ -46,3 +46,50 @@ In conclusion, our proposed emotion recognition technology could bring significa
 [2] https://pubmed.ncbi.nlm.nih.gov/34444569/  
 [3] https://www.sciencetimes.com/articles/36984/20220414/tiktok-brain-explained-endless-dopamine-rush-short-videos-kids-hooked.htm  
 [4] https://pubmed.ncbi.nlm.nih.gov/35978909/  
+
+## Timeline
+
+https://pubmed.ncbi.nlm.nih.gov/?term=classroom+emotion+classification&filter=simsearch3.fft&filter=years.2010-2023
+
+```mermaid
+pie title classroom emotion classification
+  "2022" : 7
+  "2021" : 5
+  "2020" : 3
+  "2019" : 2
+  "2018" : 1
+  "2017" : 4
+  "2016" : 2
+  "2015" : 1
+  "2014" : 2
+  "2012" : 1
+  "2010" : 1
+```
+
+https://pubmed.ncbi.nlm.nih.gov/?term=multimodal+emotion+classification&filter=simsearch3.fft&filter=years.2010-2023
+
+```mermaid
+pie title multimodal emotion classification
+  "2023" : 5
+  "2022" : 42
+  "2021" : 27
+  "2020" : 23
+  "2019" : 18
+  "2018" : 9
+  "2017" : 11
+  "2016" : 11
+  "2015" : 9
+  "2014" : 7
+  "2013" : 5
+  "2012" : 3
+  "2011" : 5
+  "2010" : 1
+```
+
+## Extra resources
+
+https://pubmed.ncbi.nlm.nih.gov/34300666/  
+https://pubmed.ncbi.nlm.nih.gov/24269801/  
+https://pubmed.ncbi.nlm.nih.gov/35069919/  
+https://pubmed.ncbi.nlm.nih.gov/35911019/  
+https://github.com/kayvane1/wandb-course

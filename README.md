@@ -97,4 +97,15 @@ https://github.com/ali-ism/Wandb-Course
 https://github.com/aditya2kahol/wandb-model-dev-course  
 https://github.com/wandb/edu/tree/main/lightning/projects  
 https://github.com/wandb/edu/blob/main/lightning/projects/constrained_emotion_classifier.ipynb  
-https://www.kaggle.com/datasets/msambare/fer2013
+https://github.com/justinshenk/fer  
+
+## Data
+
+https://www.kaggle.com/datasets/msambare/fer2013  
+https://github.com/microsoft/FERPlus  
+https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+## Auxiliary models
+
+https://huggingface.co/ibombonato/swin-age-classifier  
+https://www.aicrowd.com/showcase/stratified-k-fold-image-classification-swin-transformers

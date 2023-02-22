@@ -92,4 +92,9 @@ https://pubmed.ncbi.nlm.nih.gov/34300666/
 https://pubmed.ncbi.nlm.nih.gov/24269801/  
 https://pubmed.ncbi.nlm.nih.gov/35069919/  
 https://pubmed.ncbi.nlm.nih.gov/35911019/  
-https://github.com/kayvane1/wandb-course
+https://github.com/kayvane1/wandb-course  
+https://github.com/ali-ism/Wandb-Course  
+https://github.com/aditya2kahol/wandb-model-dev-course  
+https://github.com/wandb/edu/tree/main/lightning/projects  
+https://github.com/wandb/edu/blob/main/lightning/projects/constrained_emotion_classifier.ipynb  
+https://www.kaggle.com/datasets/msambare/fer2013
